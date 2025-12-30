@@ -1,0 +1,2 @@
+audio_filepath,image_filepath,Speech to Text,Doctor's Response,output 2,timestamp
+.gradio\flagged\audio_filepath\6843f59c3ea1e73875f1\audio.wav,.gradio\flagged\image_filepath\dc2cf7b98838d0bf4818\png, I am suffering from fever.,"With what I see, I think you have a fever and possibly some underlying infection, I would recommend you take some rest, stay hydrated and consider taking an antipyretic to help with the fever. You should also consider getting a proper medical checkup to determine the cause of the fever.",,2025-12-23 13:06:24.242846
